@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lewis Arnold\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lewis Arnold\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_BSP Rogue-Like.682347850.00" t="ExcludeRecursive" />
+    <e p="D:\Unity Games\BSP Rogue-Like" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="3rdPerson+Fly" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="LevelScripts" t="Include">
+              <e p="ControlsTutorial.cs" t="Include" />
+              <e p="HintManagement.cs" t="Include" />
+              <e p="ThirdPersonOrbitCamBasic.cs" t="Include" />
+            </e>
+            <e p="PlayerScripts" t="Include">
+              <e p="AimBehaviourBasic.cs" t="Include" />
+              <e p="BasicBehaviour.cs" t="Include" />
+              <e p="FlyBehaviour.cs" t="Include" />
+              <e p="MoveBehaviour.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="DungeonGeneration.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="Room.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BSP Rogue-Like.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
